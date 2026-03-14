@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Flame';
+    src: url('../font/fonts/FlameBold.woff2') format('woff2'),
+        url('../font/FlameBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flame';
+    src: url('../font/fonts/FlameCondensed.woff2') format('woff2'),
+        url('../font/fonts/FlameCondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flame';
+    src: url('../font/fonts/FlameRegular.woff2') format('woff2'),
+        url('../font/fonts/FlameRegular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Flame';
+    src: url('../font/fonts/FlameSans.woff2') format('woff2'),
+        url('../font/fonts/FlameSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
